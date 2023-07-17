@@ -1,4 +1,4 @@
 # UBR 综合分析
 
-这些是用于综合分析泛素化机制以揭示组织和癌症特异性特征的主要 R 脚本。
+These are the main R scripts for integrated analysis of ubiquitination mechanisms to reveal tissue- and cancer-specific signatures.
 
